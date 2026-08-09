@@ -1,4 +1,4 @@
-# Deep-dive code — Lakehouse Data Platform take-home
+# Deep-dive code — Lakehouse Data Platform
 
 Three correctness boundaries from the design doc (§8), implemented as
 standard-library modules with typed ports; Debezium, Iceberg, Postgres,
